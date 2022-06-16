@@ -1,5 +1,5 @@
 <h1 >Hola 👋, Soy Ignasi Ferrés</h1>                                                                                                                                                          
-        <li dir=auto>          👨‍💻 Soy un Programador/Fullstack Developer apasionado d'España</li>
+        <li data-sourcepos="2:1-5:0" class="unchanged">          👨‍💻 Soy un Programador/Fullstack Developer apasionado d'España</li>
 
 - 🌱 Actualmente estoy estudiando **Javascript**
 

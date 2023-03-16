@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy estudiando **Javascript**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [igprojects.sytes.net](igprojects.sytes.net)
+- 👨‍💻 Mi portfolio [https://igprojects.github.io/PORTFOLIO_IGProjects/](https://igprojects.github.io/PORTFOLIO_IGProjects/)
 
 - 📫 Como contactar-me **igprojects02@gmail.com**
 

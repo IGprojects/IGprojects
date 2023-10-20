@@ -1,7 +1,7 @@
 <h1 >Hola 👋, Soy Ignasi Ferrés</h1>                                                                                                                                                          
         <li data-sourcepos="2:1-5:0" class="unchanged">          👨‍💻 Soy un Programador/Fullstack Developer apasionado d'España</li>
 
-- 🌱 Actualmente estoy estudiando **Javascript**
+- 🌱 Actualmente estoy estudiando **Flutter**
 
 - 👨‍💻 Mi portfolio [https://igprojects.github.io/PORTFOLIO_IGProjects/](https://igprojects.github.io/PORTFOLIO_IGProjects/)
 

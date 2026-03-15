@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy estudiando **Flutter**
 
-- 👨‍💻 Mi portfolio [https://igprojects.github.io/PORTFOLIO_IGProjects/](https://igprojects.github.io/PORTFOLIO_IGProjects/)
+- 👨‍💻 Mi portfolio [https://igprojects.github.io/PORTFOLIO_IGProjects/](https://igprojects.github.io/)
 
 - 📫 Como contactar-me **igprojects02@gmail.com**
 
